@@ -1,3 +1,38 @@
-
-
-Used to display the documentation for a specific command.
+Command	Description
+pwd	Displays the current working directory.
+ls	Lists files and directories.
+cd	Changes the current directory.
+mkdir	Creates a new directory.
+rmdir	Removes an empty directory.
+touch	Creates a new empty file.
+cp	Copies files or directories.
+mv	Moves or renames files and directories.
+rm	Removes files or directories.
+cat	Displays the contents of a file.
+less	Views a file one page at a time.
+head	Displays the beginning of a file.
+tail	Displays the end of a file.
+grep	Searches for text patterns in files or command output.
+find	Searches for files and directories.
+chmod	Changes file or directory permissions.
+chown	Changes the owner of a file or directory.
+sudo	Runs a command with elevated privileges.
+su	Switches to another user account.
+ps	Lists currently running processes.
+kill	Terminates a running process.
+top	Displays running processes and system resource usage.
+df	Displays available disk space.
+du	Displays disk usage of files and directories.
+ip	Displays or configures network information.
+ping	Tests network connectivity to a host.
+ssh	Connects to a remote computer securely.
+wget	Downloads files from the web.
+curl	Transfers data to or from a server.
+tar	Creates or extracts archive files.
+man	Displays the manual/documentation for a command.
+clear	Clears the terminal screen.
+history	Displays previously executed commands.
+echo	Prints text or variable values to the terminal.
+apt	Installs, updates, or removes packages on Debian-based systems.
+shutdown	Shuts down or restarts the computer.
+reboot	Restarts the system.
